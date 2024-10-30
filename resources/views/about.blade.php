@@ -55,14 +55,7 @@
 					<div class="col-md-12">
 						<div class="breadcrumbs">
 							<h1 class="page-title-heading">About Us</h1>
-							<ul class="trail-items">
-								<li>You are here:</li>
-								<li class="trail-item">
-									<a href="/" title="">Home</a>
-									<span>></span>
-								</li>
 
-							</ul><!-- /.trail-items -->
 						</div><!-- /.breadcrumbs -->
 					</div><!-- /.col-md-12 -->
 				</div><!-- /.row -->
